@@ -8,7 +8,7 @@
 
 ### About
 
-"Mushoku" means jobless, and I'm leaning into it. No employer, no deadlines, just a lot of curiosity and a keyboard. I write code because I can't seem to stop.
+"Mushoku" means jobless, and I'm leaning into it. No employer, no deadlines, just a lot of curiosity and a keyboard. I write code because I it makes me feel smart.
 
 ### What I'm up to
 
