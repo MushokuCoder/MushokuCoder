@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">MushokuCoder</h1>
 
 <p align="center"><i>Jobless. Eccentric. Writes code anyway.</i></p>
