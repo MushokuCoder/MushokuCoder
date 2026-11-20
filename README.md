@@ -12,7 +12,7 @@
 
 - Getting better at **Python**
 - Learning **AI / machine learning**
-- Slowly figuring out how to build a **game engine** from scratch
+- Slowly figuring out how to build a **game engine** from scratch, working with C\C++
 
 ### Tools
 
@@ -25,5 +25,3 @@
 Experimenting, breaking things, and (occasionally) fixing them.
 
 ---
-
-<p align="center"><sub>Built in public, one commit at a time.</sub></p>
